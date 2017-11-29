@@ -1,9 +1,10 @@
-﻿/* flexbox (art gallery)*/
-
+﻿
 .homedesc {
 	text-align: center;
 	font-family: "Calibri";
 	font-size: larger;
+	padding-left: 100px;
+	padding-right: 100px;
 }
 
 .homedesc h1{
@@ -24,7 +25,15 @@ body {
 .flex-gallery {
 	display: flex;
 	flex-wrap: wrap;
+	padding-left: 100px;
+	padding-right: 100px;
 }
+
+.flex-footer {
+	display: flex;
+	flex-wrap: wrap;
+}
+
 
 /* navigation bar */
 ul {
