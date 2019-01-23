@@ -1,2 +1,3 @@
 # viviennewang
-Personal website belonging to Vivienne Wang
+website 2.0
+Jan 23, 2019
